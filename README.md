@@ -1,6 +1,6 @@
 # DSA Sheets
 
-I have put all important DSA sheets here so you do not need to move from one place to another to find them. I work in Java and follow Striver closely, so I value his sheet highly. The order reflects my own views and I have noted the best use case for each sheet so you can choose what fits your goal. Everything here supports interview preparation and competitive programming, along with some personal useful points below the links.
+I have put all important DSA sheets here so you do not need to move from one place to another to find them. I work in Java and follow Striver closely, so I value his sheet highly. The order reflects my own views and I have noted the best use case for each sheet so you  can choose what fits your goal. Everything here supports interview preparation and competitive programming, along with some personal useful points below the links.
 
 ## 1. Striver's A2Z DSA Sheet (Best for Interview Preparation)
 
